@@ -4,3 +4,4 @@ personal_expense/.venv
 __pycache__/
 *.py[cod]
 .venv
+projects
