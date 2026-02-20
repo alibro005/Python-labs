@@ -5,5 +5,5 @@ It is meant for practice, learning, and showcasing different concepts in Python 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-projects.git
+git clone https://github.com/alibro005/python-projects.git
 ```
